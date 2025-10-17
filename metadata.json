@@ -1,0 +1,5 @@
+{
+  "name": "Medicinal Plant Identifier",
+  "description": "An AI-powered tool to identify medicinal plants from images. Upload a photo of a plant leaf, and the application will provide its common name, scientific name, description, and potential medicinal uses, leveraging advanced machine learning for accurate classification.",
+  "requestFramePermissions": []
+}
